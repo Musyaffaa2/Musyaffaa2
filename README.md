@@ -40,15 +40,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musyaffaa2&show_icons=true&theme=radical&hide_title=true" alt="Musyaffaa2's GitHub Stats" style="margin-bottom: 20px;"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musyaffaa2&theme=radical" alt="GitHub Streak" style="margin-bottom: 20px;"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Musyaffaa2&theme=radical" style="margin-bottom: 20px;"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musyaffaa2&theme=radical&layout=compact" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Musyaffaa2&show_icons=true&theme=radical&hide_title=true" alt="Musyaffaa2's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musyaffaa2&theme=radical&layout=compact" alt="Top Langs"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musyaffaa2&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Musyaffaa2&theme=radical" alt="GitHub Summary"/>
+</p>
 
 
 ---
