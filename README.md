@@ -13,7 +13,7 @@
 - 💻 Passionate in UI/UX, clean code, and crafting interactive user experiences.
 - 🚀 Currently learning React.js & exploring full-stack development.
 - 🌱 Focused on growing as a professional developer through continuous projects and contributions.
-- 📫 How to reach me: [yaaffaaa_ on IG](https://instagram.com/yaaffaaa_) | [musyaffa-arwiin on LinkedIn](https://linkedin.com/in/musyaffa-arwiin)
+- 📫 How to reach me: musyaffaarwin@gmail.com
 
 ---
 
@@ -24,6 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 ---
