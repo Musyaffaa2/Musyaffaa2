@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Musyaffa Arwiin Syah Bahtiar
+A passionate Front-End / Full-Stack Developer 🚀
 
-<!--
-**Musyaffaa2/Musyaffaa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Jogjadventure Capstone
+- 🌱 I’m currently learning React, Node.js, MongoDB
+- 👯 I’m looking to collaborate on open-source or web projects
+- 💬 Ask me about Front-End Dev & Web Design
+- 📫 How to reach me: musyaffaarwin@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats:
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/your-link)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/your-link)
