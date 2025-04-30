@@ -40,12 +40,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musyaffaa2&show_icons=true&theme=tokyonight" alt="Musyaffaa2's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Musyaffaa2&show_icons=true&theme=radical&hide_title=true" alt="Musyaffaa2's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musyaffaa2&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musyaffaa2&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Musyaffaa2&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Musyaffaa2&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musyaffaa2&theme=radical&layout=compact" alt="Top Langs" />
 </p>
+
 
 ---
 
