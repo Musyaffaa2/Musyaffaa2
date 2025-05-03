@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Front-End+Developer;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
----
 
 ### 🔥 About Me
 - 🎓 I'm **Musyaffa Arwiin Syah Bahtiar**, a Front-End Developer who loves creating elegant, responsive websites.
@@ -14,7 +13,7 @@
 - 🌱 Focused on growing as a professional developer through continuous projects and contributions.
 - 📫 How to reach me: musyaffaarwin@gmail.com
 
----
+
 
 ### 🛠️ Tech Stack
 <p align="center">
