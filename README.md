@@ -31,7 +31,7 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
 </p>
----
+
 
 
 ### 📈 GitHub Stats
@@ -49,7 +49,6 @@
 </p>
 
 
----
 
 ### 🏆 GitHub Trophies
 <p align="center">
