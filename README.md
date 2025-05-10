@@ -11,7 +11,7 @@
 - 💻 Passionate in UI/UX, clean code, and crafting interactive user experiences.
 - 🚀 Currently learning React.js & exploring full-stack development.
 - 🌱 Focused on growing as a professional developer through continuous projects and contributions.
-- 📫 How to reach me: musyaffaarwin@gmail.com
+- 📫 How to reach me: musyaffaarwin@gmail.com || <a href="https://linkedin.com/in/musyaffa-arwiin" target="_blank" title="Connect on LinkedIn">
 
 
 
