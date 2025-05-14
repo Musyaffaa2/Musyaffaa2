@@ -1,31 +1,46 @@
-<h1 align="center">Hi 👋, I'm Musyaffa Arwiin Syah Bahtiar</h1>
+<h1 align="center">Hi 👋, I'm Musyaffa Arwiin Syah Bahtiar 🇮🇩</h1>
 <h3 align="center">🚀 A Passionate Front-End Developer from Indonesia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Front-End+Developer+from+Indonesia;Always+learning+something+new!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Front-End+Developer+from+Indonesia;Always+learning+something+new!" alt="Typing SVG">
 </p>
 
 ---
 
 ### 🔥 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Coding Animation"/>
+</p>
+
 - 🎓 I'm **Musyaffa Arwiin Syah Bahtiar**, a creative Front-End Developer who loves crafting elegant, responsive websites.
 - 🎨 Passionate about **UI/UX**, clean code, and building smooth, interactive user experiences.
-- ⚛️ Currently exploring **React.js** and diving into the **Full-Stack Developer journey**.
-- 💡 Continuously improving through real-world projects, team collaboration, and open-source contributions.
+- ⚛️ Currently diving deep into **React.js** & starting the **Full-Stack Developer journey**.
+- 💡 Constantly learning through real projects, team collaboration & open-source.
 - 📫 Reach me at: **musyaffaarwin@gmail.com**
+
+---
+
+### 🚧 Currently Learning
+
+<p align="center">
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/master/demo.gif" width="300" alt="Currently learning animation">
+  <br/>
+  <img src="https://img.shields.io/badge/Now Learning-Full Stack Web Dev-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
 </p>
 
 ---
@@ -33,8 +48,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Musyaffaa2&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musyaffaa2&layout=compact&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Musyaffaa2&show_icons=true&theme=radical&hide_title=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musyaffaa2&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
