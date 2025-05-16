@@ -21,7 +21,7 @@
 
 ---
 
-### 🚧 Currently Learning
+### 🚀 Currently Learning
 
 <p align="center">
   <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/master/demo.gif" width="300" alt="Currently learning animation">
