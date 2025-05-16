@@ -1,33 +1,20 @@
-<h1 align="center">Hi 👋, I'm Musyaffa Arwiin Syah Bahtiar 🇮🇩</h1>
-<h3 align="center">🚀 A Passionate Front-End Developer from Indonesia</h3>
+<h1 align="center">Hi there 👋, I'm Musyaffa Arwiin Syah Bahtiar</h1>
+<h3 align="center">🚀 Front-End Developer | Passionate Learner | Based in Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Front-End+Developer+from+Indonesia;Always+learning+something+new!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+build+interactive+web+interfaces;Always+learning+and+growing+💡" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔥 About Me
+### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Coding Animation"/>
-</p>
-
-- 🎓 I'm **Musyaffa Arwiin Syah Bahtiar**, a creative Front-End Developer who loves crafting elegant, responsive websites.
-- 🎨 Passionate about **UI/UX**, clean code, and building smooth, interactive user experiences.
-- ⚛️ Currently diving deep into **React.js** & starting the **Full-Stack Developer journey**.
-- 💡 Constantly learning through real projects, team collaboration & open-source.
-- 📫 Reach me at: **musyaffaarwin@gmail.com**
-
----
-
-### 🚀 Currently Learning
-
-<p align="center">
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/master/demo.gif" width="300" alt="Currently learning animation">
-  <br/>
-  <img src="https://img.shields.io/badge/Now Learning-Full Stack Web Dev-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+- 🎓 I'm currently an **Undergraduate Computer Science Student**
+- 💻 I love building responsive, elegant, and user-friendly UIs
+- ⚛️ Currently mastering **React**, while exploring **Back-End development**
+- 🎯 Interested in **UI/UX**, performance optimization, and clean code architecture
+- 🌱 Always improving through **projects, collaboration**, and community
+- 📬 Reach me at: **musyaffaarwin@gmail.com**
 
 ---
 
@@ -45,32 +32,37 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Musyaffaa2&show_icons=true&theme=radical&hide_title=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musyaffaa2&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Musyaffaa2&show_icons=true&theme=tokyonight&hide_title=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musyaffaa2&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Musyaffaa2&theme=radical" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Musyaffaa2&theme=radical" alt="GitHub Profile Summary"/>
+  <img src="https://streak-stats.demolab.com?user=Musyaffaa2&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🚀 Projects & Learning Focus
+
+- 🌐 Building full projects using **React + RESTful APIs**
+- 🧠 Exploring **Node.js, Express, MongoDB** for back-end
+- 🎨 Designing wireframes & UI mockups in **Figma**
+- 📚 Learning daily through docs, courses, and open-source
+
+---
+
+### 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Musyaffaa2&theme=algolia&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Musyaffaa2&theme=darkhub&margin-w=10&no-frame=true&no-bg=true" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌍 Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/musyaffa-arwiin" target="_blank">
@@ -79,16 +71,16 @@
   <a href="https://instagram.com/yaaffaaa_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://github.com/Musyaffaa2" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="mailto:musyaffaarwin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Musyaffaa2" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:36BCF7,100:9F36F7&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=120&section=footer"/>
 </p>
