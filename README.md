@@ -7,7 +7,7 @@
 
 ---
 
-### 🔥 About Me
+### 🔥🔥 About Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Coding Animation"/>
