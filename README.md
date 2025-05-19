@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Currently Learning
+### 🚀🚀 Currently Learning
 
 <p align="center">
   <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/master/demo.gif" width="300" alt="Currently learning animation">
@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Musyaffaa2&show_icons=true&theme=radical&hide_title=true" />
@@ -62,7 +62,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Musyaffaa2&theme=algolia&no-bg=true&margin-w=10" />
@@ -70,7 +70,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/musyaffa-arwiin" target="_blank">
