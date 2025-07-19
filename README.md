@@ -31,7 +31,7 @@
 - 💡 Love solving complex problems through elegant code solutions
 - 🤝 Open to collaborating on innovative web projects
 - 📧 **Email:** musyaffaarwin@gmail.com
-- 📍 **Location:** Malang, East Java, Indonesia
+- 📍 **Location:** Ponorogo, East Java, Indonesia
 
 <br clear="right"/>
 
@@ -109,14 +109,6 @@
   <a href="mailto:musyaffaarwin@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
-<!-- Alternative: Simple link format -->
-<p align="center">
-  🌐 <a href="https://musyaffaarwin.com">musyaffaarwin.com</a> • 
-  💼 <a href="https://linkedin.com/in/musyaffa-arwiin">LinkedIn</a> • 
-  📸 <a href="https://instagram.com/yaaffaaa_">Instagram</a> • 
-  📧 <a href="mailto:musyaffaarwin@gmail.com">Email</a>
 </p>
 
 ---
