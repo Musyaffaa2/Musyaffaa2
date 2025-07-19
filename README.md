@@ -31,7 +31,7 @@
 - 💡 Love solving complex problems through elegant code solutions
 - 🤝 Open to collaborating on innovative web projects
 - 📧 **Email:** musyaffaarwin@gmail.com
-- 📍 **Location:** Ponorogo, East Java, Indonesia
+- 📍 **Location:** Malang, East Java, Indonesia
 
 <br clear="right"/>
 
