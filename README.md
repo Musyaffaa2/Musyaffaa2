@@ -31,7 +31,7 @@
 - 💡 Love solving complex problems through elegant code solutions
 - 🤝 Open to collaborating on innovative web projects
 - 📧 **Email:** musyaffaarwin@gmail.com
-- 📍 **Location:** Ponorogo, East Java, Indonesia
+- 📍 **Location:** Malang, East Java, Indonesia
 
 <br clear="right"/>
 
@@ -63,20 +63,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,docker,aws" />
 </p>
-
----
-
-### 🌟 Featured Projects
-
-<div align="center">
-  
-| Project | Tech Stack | Links |
-|---------|------------|-------|
-| 🌐 **Personal Portfolio** | React, TypeScript, Tailwind CSS | [Live](https://musyaffaarwin.com) • [Code](https://github.com/Musyaffaa2/portfolio) |
-| 📱 **Responsive Web Apps** | HTML5, CSS3, JavaScript ES6+ | [View Projects](https://github.com/Musyaffaa2?tab=repositories) |
-| 🎨 **UI Component Library** | React, Storybook, CSS Modules | [Demo](https://musyaffaarwin.com/components) |
-
-</div>
 
 ---
 
@@ -135,20 +121,20 @@
 
 ---
 
-### 💭 Random Dev Quote
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  
+### 👀 Profile Views
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Musyaffaa2&color=blueviolet&style=for-the-badge)
+
 </div>
 
 ---
 
 <div align="center">
-  
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Musyaffaa2&color=blueviolet&style=for-the-badge)
 
 ### ⭐ If you like my work, give it a star!
+
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 </div>
