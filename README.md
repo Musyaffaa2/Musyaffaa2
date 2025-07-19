@@ -138,11 +138,3 @@
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:36BCF7,100:9F36F7&height=100&section=footer" width="100%"/>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+coding!+🚀" alt="Footer Typing SVG">
-</div>
