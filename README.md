@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">🚀 Passionate Front-End Developer from Indonesia 🇮🇩</h3>
-<h4 align="center">💻 Building Digital Experiences | 🎨 UI/UX Enthusiast | ⚡ Full-Stack Journey</h4>
+<h4 align="center">💻 Building Digital Experiences | 🎨 UI/UX Enthusiast | ⚡ Full-Stack Journey  </h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Front-End+Developer+from+Indonesia;React.js+%26+TypeScript+Enthusiast;Always+learning+new+technologies;Building+amazing+user+experiences!" alt="Typing SVG">
