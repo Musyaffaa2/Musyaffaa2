@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="musyaffaportfolio.vercel.app" target="_blank">
+  <a href="[musyaffaportfolio.vercel.app](https://musyaffaportfolio.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-musyaffaarwin.com-00D9FF?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
@@ -24,7 +24,7 @@
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Coding Animation"/>
 
 - 🎓 **Musyaffa Arwiin Syah Bahtiar** - Creative Front-End Developer
-- 🌐 **Portfolio:** [musyaffaportfolio.vercel.app](musyaffaportfolio.vercel.app)
+- 🌐 **Portfolio:** [musyaffaportfolio.vercel.app](https://musyaffaportfolio.vercel.app/) 
 - 🎨 Passionate about **UI/UX Design**, clean architecture, and pixel-perfect implementations
 - ⚛️ Currently mastering **React.js**, **TypeScript**, and exploring **Next.js**
 - 🚀 On my journey to becoming a **Full-Stack Developer**
