@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="[musyaffaportfolio.vercel.app](https://musyaffaportfolio.vercel.app/)" target="_blank">
+  <a href="https://musyaffaportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-musyaffaarwin.com-00D9FF?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
