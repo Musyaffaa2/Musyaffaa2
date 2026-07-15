@@ -49,7 +49,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-#### Frontend Technologies
+#### Front-End Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap" />
 </p>
