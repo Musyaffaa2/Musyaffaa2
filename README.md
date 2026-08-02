@@ -1,5 +1,5 @@
 <div align="center">
- 
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0E14,50:6C63FF,100:36BCF7&height=230&section=header&text=Musyaffa%20Arwiin%20Syah%20Bahtiar&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast%20%E2%80%A2%20Full-Stack%20Journey&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&multiline=true&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Front-End+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;React.js+%26+TypeScript+Enthusiast;Building+amazing+user+experiences!" alt="Typing SVG"/>
