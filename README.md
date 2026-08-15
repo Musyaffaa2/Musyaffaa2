@@ -13,7 +13,6 @@
 <a href="https://linkedin.com/in/musyaffa-arwiin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0E14"/>
 </a>
-
 </div>
 
 <br/>
