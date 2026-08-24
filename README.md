@@ -51,27 +51,27 @@ I'm a Front-End Developer passionate about creating modern, responsive, and user
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Project One** | Brief explanation of your first awesome project. | `React` `TypeScript` `Tailwind` | [Repository](#) |
-| **Project Two** | Brief explanation of your second awesome project. | `Next.js` `Node.js` `PostgreSQL` | [Repository](#) |
+| **Bank Soal App** | Interactive platform featuring study mode and practice test modes. | `Laravel` `Alpine.js` `Tailwind` | [Repository](https://github.com/Musyaffaa2) |
+| **Learning Advisory System** | Student learning pattern analysis using SOM clustering. | `React` `TypeScript` `Python` | [Repository](https://github.com/Musyaffaa2) |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Musyaffaa2&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musyaffaa2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ## 🌐 Let's Connect
 
-<p left>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<p align="left">
+  <a href="https://linkedin.com/in/Musyaffaa2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
