@@ -1,4 +1,5 @@
 # 👨‍💻 Hi there, I'm a Front-End Developer!
+
 I'm a Front-End Developer passionate about creating modern, responsive, and user-friendly web applications.
 
 - 🎓 **Education:** Information Technology Student
@@ -13,7 +14,6 @@ I'm a Front-End Developer passionate about creating modern, responsive, and user
 ---
 
 ## 🎯 What I'm Working On
-
 | Track | Focus Area |
 | :--- | :--- |
 | ⚛️ **Front-End** | Building modern, type-safe interfaces with React & TypeScript |
@@ -23,7 +23,6 @@ I'm a Front-End Developer passionate about creating modern, responsive, and user
 ---
 
 ## 🛠️ Tech Stack
-
 ### 🎨 Front-End & UI
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
