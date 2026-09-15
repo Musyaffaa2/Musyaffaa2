@@ -1,6 +1,7 @@
 # 👨‍💻 Hi there, I'm a Front-End Developer!
 
 I'm a Front-End Developer passionate about creating modern, responsive, and user-friendly web applications.
+
 - 🎓 **Education:** Information Technology Student
 - ⚛️ **Specialization:** React.js & TypeScript
 - 🎨 **Interests:** UI/UX Design & Design Systems
@@ -43,7 +44,6 @@ I'm a Front-End Developer passionate about creating modern, responsive, and user
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Link |
