@@ -1,6 +1,7 @@
 # 👨‍💻 Hi there, I'm a Front-End Developer!
 I'm a Front-End Developer passionate about creating modern, responsive, and user-friendly web applications.
 
+
 - 🎓 **Education:** Information Technology Student
 - ⚛️ **Specialization:** React.js & TypeScript
 - 🎨 **Interests:** UI/UX Design & Design Systems
