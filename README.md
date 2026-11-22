@@ -54,19 +54,6 @@ I'm a website developer who builds fast, responsive, and user-friendly web appli
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Learning Advisory System** | Web-based system that helps teachers analyze student learning outcomes and recommends follow-up learning activities. | `React` `TypeScript` `Python` | [Demo](https://learning-web-advisory.vercel.app) |
-| **PPPKIN Learning Platform** | Web-based learning platform for PPPK exam preparation with interactive study materials and practice tests. | `Laravel` `PHP` `MySQL` `JavaScript` | [Portfolio](https://musyaffaarwin.my.id) |
-| **Jogjadventure** | Web-based destination recommendation application that helps users discover and explore destinations in Yogyakarta. | `React` `Node.js` `Express` `MongoDB` | [Portfolio](https://musyaffaarwin.my.id) |
-| **Bank Soal App** | Interactive platform featuring study mode and practice test modes. | `Laravel` `Alpine.js` `Tailwind` | [Repository](https://github.com/Musyaffaa2) |
-
-More projects and experience on my [portfolio](https://musyaffaarwin.my.id).
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
