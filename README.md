@@ -4,7 +4,7 @@ I'm a website developer who builds fast, responsive, and user-friendly web appli
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C6CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://musyaffaarwin.my.id)
 
-- 🎓 **Education:** Information Technology Student
+- 🎓 **Education:** Bachelor Information Technology 
 - ⚛️ **Specialization:** React.js & TypeScript
 - 🎨 **Interests:** UI/UX Design & Design Systems
 - 🧩 **Philosophy:** Writing clean, maintainable, and scalable code
