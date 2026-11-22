@@ -1,6 +1,8 @@
-# 👨‍💻 Hi there, I'm a Front-End Developer!
-I'm a Front-End Developer passionate about creating modern, responsive, and user-friendly web applications.
+# 👨‍💻 Hi there, I'm Musyaffa Arwiin
 
+I'm a website developer who builds fast, responsive, and user-friendly web applications with React, TypeScript, and Tailwind CSS. I'm currently growing into full-stack development.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C6CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://musyaffaarwin.my.id)
 
 - 🎓 **Education:** Information Technology Student
 - ⚛️ **Specialization:** React.js & TypeScript
@@ -14,15 +16,17 @@ I'm a Front-End Developer passionate about creating modern, responsive, and user
 ---
 
 ## 🎯 What I'm Working On
+
 | Track | Focus Area |
 | :--- | :--- |
 | ⚛️ **Front-End** | Building modern, type-safe interfaces with React & TypeScript |
 | 🎨 **UI/UX** | Creating intuitive, accessible, and user-centered web experiences |
-| 🚀 **Full-Stack** | Exploring Next.js, Node.js, and API integrations |
+| 🚀 **Full-Stack** | Connecting interfaces to real data with Node.js, Supabase, and APIs |
 
 ---
 
 ## 🛠️ Tech Stack
+
 ### 🎨 Front-End & UI
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,8 +38,13 @@ I'm a Front-End Developer passionate about creating modern, responsive, and user
 
 ### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🔧 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -44,26 +53,32 @@ I'm a Front-End Developer passionate about creating modern, responsive, and user
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
+| **Learning Advisory System** | Web-based system that helps teachers analyze student learning outcomes and recommends follow-up learning activities. | `React` `TypeScript` `Python` | [Demo](https://learning-web-advisory.vercel.app) |
+| **PPPKIN Learning Platform** | Web-based learning platform for PPPK exam preparation with interactive study materials and practice tests. | `Laravel` `PHP` `MySQL` `JavaScript` | [Portfolio](https://musyaffaarwin.my.id) |
+| **Jogjadventure** | Web-based destination recommendation application that helps users discover and explore destinations in Yogyakarta. | `React` `Node.js` `Express` `MongoDB` | [Portfolio](https://musyaffaarwin.my.id) |
 | **Bank Soal App** | Interactive platform featuring study mode and practice test modes. | `Laravel` `Alpine.js` `Tailwind` | [Repository](https://github.com/Musyaffaa2) |
-| **Learning Advisory System** | Student learning pattern analysis using SOM clustering. | `React` `TypeScript` `Python` | [Repository](https://github.com/Musyaffaa2) |
+
+More projects and experience on my [portfolio](https://musyaffaarwin.my.id).
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Musyaffaa2&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Musyaffaa2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Musyaffaa2&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=A5A0FF&icon_color=7C6CFF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Musyaffaa2&layout=compact&hide_border=true&bg_color=0B0E14&title_color=A5A0FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ## 🌐 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C6CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://musyaffaarwin.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musyaffa-arwiin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musyaffaarwin@gmail.com)
 
